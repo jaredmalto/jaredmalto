@@ -1,4 +1,4 @@
-### Hi there! I'm Jared, 👋
+### Hi there👋! I'm Jared, 
 
 a B.S. Computer Science at The Ohio State Univeristy. My repos are fun little projects I created and some coursework I did while in school. I am currently a software engineer intern at Allstate and am looking for internship opportunities for Summer 2024 in software engineering or data science! 
 
